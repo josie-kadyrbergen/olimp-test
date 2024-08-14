@@ -13,7 +13,7 @@ This is a simple To-Do List application built with React, NestJS, and PostgreSQL
 
    ```bash
    git clone git@github.com:josie-kadyrbergen/olimp-test.git
-   cd todo-app
+   cd olimp-test
 2. Backend Setup:
    
    ```bash
